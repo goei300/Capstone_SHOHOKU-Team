@@ -1,0 +1,1 @@
+{"time":"2023-05-24 21:41:17 +0900","exploit":"auxiliary/scanner/ssh/ssh_login","target":"192.168.81.138","status":"Failed","username":"admin","vulnerability":"CVE-2021-1234","result":"Exploit failed","comments":"Vulnerability not present"}
